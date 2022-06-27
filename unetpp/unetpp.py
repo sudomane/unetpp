@@ -1,3 +1,8 @@
+__author__ = "Philippe Bouchet, Lucas Pinot"
+__credits__ = ["Philippe Bouchet", "Lucas Pinot"]
+__license__ = "MIT"
+__version__ = "1.0.1"
+
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
 from keras.models import *
